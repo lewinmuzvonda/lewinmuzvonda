@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lewinmuzvonda
-- 👀I code in PHP (Backends) & JS(Frontends)
+- 👀PHP + JS
 - 📫 How to reach me +971529667536 / muzvondalewin@gmail.com
 
 <!---
