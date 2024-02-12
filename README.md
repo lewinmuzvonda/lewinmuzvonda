@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lewin
 - 👀PHP + JS
-- 📫 How to reach me +971529667536 / lewinitservices@gmail.com
+- 📫 How to reach me +971562427976 / muzvondalewin@gmail.com
 
 <!---
 lewinmuzvonda/lewinmuzvonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
